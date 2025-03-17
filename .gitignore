@@ -1,0 +1,6 @@
+/Creating_wheel_files/build/
+/Creating_wheel_files/dist/
+
+*/__pycache__/
+
+*.egg-info/
