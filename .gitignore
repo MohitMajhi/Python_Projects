@@ -1,6 +1,10 @@
-/Creating_wheel_files/build/
-/Creating_wheel_files/dist/
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
 
-*/__pycache__/
-
-*.egg-info/
+# Virtual environments
+.venv
